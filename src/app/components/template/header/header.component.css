@@ -1,0 +1,40 @@
+@media only screen and (min-width: 1000px) {
+    header{
+        display: flex;
+    }
+    nav{
+        width: 170px;
+        height: 100vh;
+        border-top-right-radius: 20px;
+        border-bottom-right-radius: 20px;
+        padding: 0;
+        box-shadow: 0px 0px 10px;
+    }
+
+    .container-fluid{
+        display: grid!important;
+        padding: 0;
+        margin-bottom: auto;
+        
+    }
+
+    .navbar-nav{
+        display: grid;
+        margin-top: 30px;
+    }
+
+    .nav-link{
+        margin: auto!important;
+        padding-top: 10px;
+        /* background-color: red; */
+        width: 170px;
+    }
+
+    .nav-link:hover{
+        background-color: grey;
+    }
+
+    p{
+        padding: 30px;
+    }
+    }

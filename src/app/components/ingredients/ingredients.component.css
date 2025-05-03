@@ -1,0 +1,11 @@
+.accordion{
+    padding: 50px;
+}
+
+#accordionFlushExample{
+    width: 100vh!important;
+}
+
+.ccordion-button{
+    background-color: grey!important;
+}
